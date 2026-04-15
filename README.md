@@ -1,4 +1,4 @@
-# ops-finance-decision-layer
+# Ops Finance Decision Layer
 
 Sales segmentation logic was scattered across reports.
 Commercial reporting required manual merges that no one fully owned.
