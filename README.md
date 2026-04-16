@@ -108,7 +108,7 @@ This eliminates join explosion and makes the output grain stable and predictable
 
 ## 3. Non-Payroll Expense Reporting
 
-![Non-Payroll Expense Dashboard](images/NPE_dashboard.png)
+![Non-Payroll Expense Dashboard](images/NPE_Dashboard.png)
 
 Automated weekly expense dashboard replacing an Alteryx-based pipeline.
 
