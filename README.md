@@ -53,9 +53,13 @@ One segment per row. No ambiguity. Precedence is documented, not implicit.
 The output ties exactly to Generic totals — validated via EXCEPT tests
 before any dashboard consumed it.
 
+![Combined Sales Flow](images/combined_sales_flow.svg)
+
 ---
 
 ## 2. STIP / CPDash Integration
+
+![STIP CPDash Architecture](images/stip_cpdash_architecture.svg)
 
 ### The Problem
 
@@ -103,6 +107,8 @@ This eliminates join explosion and makes the output grain stable and predictable
 ---
 
 ## 3. Non-Payroll Expense Reporting
+
+![Non-Payroll Expense Dashboard](images/NPE dashboard.png)
 
 Automated weekly expense dashboard replacing an Alteryx-based pipeline.
 
